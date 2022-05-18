@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到明德书院线上共读平台
 
 You can use the [editor on GitHub](https://github.com/Lfjiaaa/Lfjiaaa.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
