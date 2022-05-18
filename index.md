@@ -1,8 +1,6 @@
 # 明德共读平台
 
-You can use the [editor on GitHub](https://github.com/Lfjiaaa/Lfjiaaa.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+明德周末共读平台是在陕西师范大学哲学书院寒假社会实践调研活动基础上成立的一项集公益资源集聚平台、创业教育实践平台、线上线下互动平台于一身的公益创业平台。通过学生自主运营，采取线上线下共读模式，以提供一个优质的读书交流公益服务平台为目标，明德周末共读平台致力于传承经典文化、实现传统书院教育与现代国学教育的完美结合。
 
 ### Markdown
 
