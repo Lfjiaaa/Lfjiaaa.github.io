@@ -1,4 +1,5 @@
-![1653382656779](C:\Users\冷风机机\AppData\Roaming\Typora\typora-user-images\1653382656779.png)
+![image](https://user-images.githubusercontent.com/90088296/169993217-b1ac7582-efb7-43b8-abd0-8b3fd66f1e28.png)
+
 
 # 明德共读平台
 
