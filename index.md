@@ -1,4 +1,4 @@
-![微信图片_20220524165133](C:\Users\冷风机机\Desktop\微信图片_20220524165133.jpg)
+![1653382656779](C:\Users\冷风机机\AppData\Roaming\Typora\typora-user-images\1653382656779.png)
 
 # 明德共读平台
 
